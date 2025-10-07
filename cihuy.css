@@ -1,0 +1,20 @@
+.body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #d6c5f3;
+}
+#header{
+    background-color: rgb(178, 170, 248);
+    text-align: center;
+    padding: 5px 100px;
+    position: sticky; 
+    font-size: 25px;
+}
+
+.isi{
+    margin: 10px;
+}
+
+h2:hover{
+    color: #113985;
+    font-size: 20px;
+}
