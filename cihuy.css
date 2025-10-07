@@ -14,7 +14,15 @@
     margin: 10px;
 }
 
-h2:hover{
+.isi h2:hover{
     color: #113985;
+    font-size: 30px;
+}
+
+.isi p{
+    font-size: 20px;
+}
+
+.isi ul{
     font-size: 20px;
 }
